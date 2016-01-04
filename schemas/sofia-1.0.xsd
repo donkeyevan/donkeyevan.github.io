@@ -1,4 +1,4 @@
-ema xmlns="http://www.w3.org/2001/XMLSchema"
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
         targetNamespace="http://www.sofiaframework.org/schema/sca"
         elementFormDefault="qualified">
 

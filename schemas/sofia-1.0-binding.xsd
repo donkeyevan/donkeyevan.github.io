@@ -1,4 +1,4 @@
-ema xmlns="http://www.w3.org/2001/XMLSchema"
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
         xmlns:sofia="http://www.sofiaframework.org/schema/sca"
         xmlns:sca="http://docs.oasis-open.org/ns/opencsa/sca/200912"
         targetNamespace="http://www.sofiaframework.org/schema/sca"
